@@ -16,14 +16,14 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Julian's Cloud Journey
 
-[✍️ Introduce yourself]
+My name is Julian Martinez. I'm a consultant and developer.
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to create better cloud resources and firm up my own knowledge.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of this, I want to have created a fairly full cloud resource page people can turn to for guidance.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [https://twitter.com/julianeon](https://twitter.com/julianeon)
+- [https://www.linkedin.com/in/julianeon/](https://www.linkedin.com/in/julianeon)
 
 ## Stepping out the door
 
