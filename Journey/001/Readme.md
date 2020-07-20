@@ -24,4 +24,4 @@ https://javascriptpage.com/
 
 I pasted this to LinkedIn also.
 
-[https://www.linkedin.com/in/julianeon/](https://www.linkedin.com/in/julianeon/)
+[https://www.linkedin.com/in/julianeon/](https://www.linkedin.com/in/julianeon)
